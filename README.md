@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HUSSEIN-SAID36
 - 👀 I’m interested in ... WEB DEVELOPMENT
-- 🌱 I’m currently learning ...AT COAST INSTITUTE OF TECHNOLOGY
-- 💞️ I’m looking to collaborate on ...DEVELOPING RESPONSIVE WEBSITE
-- 📫 How to reach me ...TWITTER,YOUTUBE,FACEBOOK,WHATSUP
+- 🌱 I’m currently learning ...AT COAST INSTITUTE OF TECHNOLOGY.
+- 💞️ I’m looking to collaborate on ...DEVELOPING RESPONSIVE WEBSITES.
+- 📫 How to reach me ...TWITTER,YOUTUBE,FACEBOOK,WHATSUP.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
